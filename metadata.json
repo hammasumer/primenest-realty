@@ -1,0 +1,8 @@
+{
+  "name": "PrimeNest Realty",
+  "description": "Professional and premium real estate agency website",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
