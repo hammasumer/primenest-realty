@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# PrimeNest Realty
 
-# Run and deploy your AI Studio app
+A modern, responsive real estate website built for **PrimeNest Realty**.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/6dda59c7-09a5-4d9c-b6e3-9ed99922fd3a
+* Responsive real estate website
+* Property listings
+* Property search and filtering
+* Featured properties
+* Property categories
+* Services section
+* About section
+* Testimonials
+* Contact section
+* Mobile-friendly navigation
+* Responsive design for desktop, tablet, and mobile
+
+## Technologies
+
+* React
+* TypeScript
+* Vite
+* CSS
+
+## Contact
+
+**PrimeNest Realty**
+Email: [info@primenestrealty.com](mailto:info@primenestrealty.com)
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+Install dependencies:
 
+```bash
+npm install
+```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Start the development server:
+
+```bash
+npm run dev
+```
+
+The website will then be available at the local URL shown in the terminal.
